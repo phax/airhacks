@@ -18,3 +18,4 @@ Adam Bien / Airhacks links: https://airhacks.industries
 
 # links & resources
 
+The llama3.java example is available from: https://github.com/mukel/llama3.java
