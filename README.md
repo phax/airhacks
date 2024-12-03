@@ -1,4 +1,4 @@
-# Java User Group Vienna
+# Java User Group Hamburg: Kickass Enterprise Java LLM Inference 
 
 ========
 
